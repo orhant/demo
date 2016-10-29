@@ -1,0 +1,84 @@
+[
+	{
+		"Company": "Gillette",
+		"Country": "China",
+		"Region": "Bremen",
+		"Pos": "25.0411786, 101.856453",
+		"Inventory": 398,
+		"Demand": 151,
+		"Production": 73
+	},
+	{
+		"Company": "Boston",
+		"Country": "Boston",
+		"Region": "Wie",
+		"Pos": "42.3132882, -71.1972459",
+		"Inventory": 374,
+		"Demand": 124,
+		"Production": 334
+	},
+	{
+		"Company": "Gravida Nunc Sed LLP",
+		"Country": "Peru",
+		"Region": "SJ",
+		"Pos": "-69.44959, -21.572",
+		"Inventory": 430,
+		"Demand": 355,
+		"Production": 67
+	},
+	{
+		"Company": "Adipiscing Elit Consulting",
+		"Country": "Trinidad and Tobago",
+		"Region": "ON",
+		"Pos": "9.59644, 169.3026",
+		"Inventory": 87,
+		"Demand": 293,
+		"Production": 332
+	},
+	{
+		"Company": "Et Tristique Corporation",
+		"Country": "Kazakhstan",
+		"Region": "PA",
+		"Pos": "-18.96804, -29.12547",
+		"Inventory": 470,
+		"Demand": 214,
+		"Production": 320
+	},
+	{
+		"Company": "Ullamcorper Magna Ltd",
+		"Country": "Heard Island and Mcdonald Islands",
+		"Region": "Wie",
+		"Pos": "-8.79796, 102.59421",
+		"Inventory": 116,
+		"Demand": 466,
+		"Production": 145
+	},
+	{
+		"Company": "Sed Pede Associates",
+		"Country": "Lebanon",
+		"Region": "Lubuskie",
+		"Pos": "-62.23989, -152.38621",
+		"Inventory": 330,
+		"Demand": 201,
+		"Production": 352
+	},
+	{
+		"Company": "Risus Quisque LLC",
+		"Country": "Angola",
+		"Region": "PA",
+		"Pos": "-53.80151, 98.02818",
+		"Inventory": 236,
+		"Demand": 411,
+		"Production": 196
+	},
+	{
+		"Company": "Condimentum Eget Volutpat Institute",
+		"Country": "Reunion",
+		"Region": "South Australia",
+		"Pos": "14.23638, 129.48749",
+		"Inventory": 48,
+		"Demand": 454,
+		"Production": 213
+	},
+	 
+]
